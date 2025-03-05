@@ -11,6 +11,7 @@ env:
 permissions:
   actions: read
   contents: write
+  workflows: write
   security-events: write
 
 jobs:
