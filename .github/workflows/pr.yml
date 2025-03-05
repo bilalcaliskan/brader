@@ -10,7 +10,7 @@ env:
 
 permissions:
   actions: read
-  contents: read
+  contents: write
   security-events: write
 
 jobs:
