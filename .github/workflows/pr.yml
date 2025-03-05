@@ -8,6 +8,11 @@ on:
 env:
   GO111MODULE: on
 
+permissions:
+  actions: read
+  contents: read
+  security-events: write
+
 jobs:
   lint:
     runs-on: ubuntu-latest
