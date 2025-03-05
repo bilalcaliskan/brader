@@ -19,3 +19,5 @@ cover.html
 *.out
 .bin/
 venv
+
+./brader
